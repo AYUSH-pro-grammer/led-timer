@@ -52,11 +52,11 @@ Perfect for digital & analog electronics basics education
 ## Preview
 
 * Schematic: `image/schematic.png`
-  !(image)[image/schematic.png]
+  ![image](image/schematic.png)
 * PCB: `image/pcb.png`
-  !(image)[image/pcb.png]
+  ![image](image/pcb.png)
 * 3D View: `image/3d.png`
-  !(image)[image/3d.png]
+  ![image](image/3d.png)
   
 
 Developed as a basic hardware project
