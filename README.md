@@ -57,6 +57,8 @@ Perfect for digital & analog electronics basics education
   ![image](image/pcb.png)
 * 3D View: `image/3d.png`
   ![image](image/3d.png)
-  
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/a74e87cd-a1a8-4fb3-9e88-28f2dd61e89b" />
+
 
 Developed as a basic hardware project
